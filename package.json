@@ -12,8 +12,11 @@
     "steiger": "npx steiger ./src"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^2.8.2",
+    "axios": "^1.11.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
+    "react-redux": "^9.2.0",
     "vite-tsconfig-paths": "^5.1.4"
   },
   "devDependencies": {
